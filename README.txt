@@ -1,7 +1,7 @@
 **********
 **********          WebGoat 6.0
 **********          August 23, 2014
-**********
+**********	
 **
 **  Home Page:              http://webgoat.github.io
 **  Home Page:              http://www.owasp.org/index.php/Category:OWASP_WebGoat_Project
